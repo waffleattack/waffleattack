@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @waffleattack
+- 👀 I’m interested in Currently working on a graphical Gui for Bitburner, very fun game
+- 🌱 I’m currently learning Javascript and Html
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me discord, Waffle_Attack#5085, is probably the easiest way to reach me
